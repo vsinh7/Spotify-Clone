@@ -1,0 +1,7 @@
+Google fonts -> to select any fonts from Google and added in style.css file
+
+Font Awesome icon-> this is for icon such as Play,Pause ,mute
+
+
+Font family-> 'Varela Round', sans-serif;
+
